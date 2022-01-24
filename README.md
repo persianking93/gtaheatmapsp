@@ -9,9 +9,9 @@ Isolar os dados disponíveis sobre furtos e roubos de veículos na Secretaria de
 ## Metodologia
 
 O projeto foi realizado em três etapas distintas:
-  *Aquisição dos dados
-  *Tratamento e organização
-  *Elaboração do modelo e interpretação
+  ** Aquisição dos dados
+  ** Tratamento e organização
+  ** Elaboração do modelo e interpretação
 
 ### Aquisição dos dados
 
